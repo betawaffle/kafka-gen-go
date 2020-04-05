@@ -1,0 +1,5 @@
+/kafkaproto/*_gen.go
+/kafka-gen-go
+/testdata/*Header.json
+/testdata/*Request.json
+/testdata/*Response.json
